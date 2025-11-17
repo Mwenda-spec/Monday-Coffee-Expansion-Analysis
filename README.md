@@ -336,7 +336,12 @@ City 3: Jaipur
 	 1. Highest customer base of 69
      2. Average rent per customer is the lowest amongst the cities at 156
      3. Average sale per customer of 11644 is among the top 4
-     
+
+Author - ROBIN MWENDA
+LinkedIn: https://linkedin.com/in/robin-mwenda/
+Website: https://datascienceportfol.io/robinmwendi8
+
+Thank you for your support, and I look forward to connecting with you!
      
      
      
